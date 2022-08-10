@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pruebaTecnicaAR
 
 Segunda parte de la prueba técnica Argos...
@@ -14,3 +15,6 @@ Segunda parte de la prueba técnica Argos...
   npm start
 
 
+=======
+# parte 2 de la prueba técnica
+>>>>>>> 37f81d623622d0c67ebae57a1a33d6f56b7dac97
